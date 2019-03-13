@@ -1,4 +1,5 @@
-    class Integers {
+//comment2    
+class Integers {
       public static void main(String[] arguments) {
         int c; //declaring a variable
      
