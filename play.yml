@@ -1,0 +1,8 @@
+---
+- hosts: answorker
+  name: install httpd
+  tasks:
+  - name: install httpd
+    apt:
+      name: httpd
+      state: latest
